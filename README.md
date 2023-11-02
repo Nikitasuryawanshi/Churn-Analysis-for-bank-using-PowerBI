@@ -1,19 +1,18 @@
 # Churn-Analysis-for-bank-using-PowerBI
-# Business Requirement Document
 ![png-transparent-south-indian-bank-bse-finance-bank-logo-india-bank-thumbnail](https://github.com/Nikitasuryawanshi/Churn-Analysis-for-bank-using-PowerBI/assets/105000370/76ec82c0-8d82-449b-89a9-cdc337e46a0e)
-
+# Business Requirement Document
 
 ## Data Dictionary
-RowNumber—corresponds to the record (row) number and has no effect on the output.
-CustomerId—contains random values and has no effect on customer leaving the bank.
-Surname—the surname of a customer has no impact on their decision to leave the bank.
-CreditScore—can have an effect on customer churn, since a customer with a higher credit score is less likely to leave the bank.
+1.RowNumber—corresponds to the record (row) number and has no effect on the output.
+2.CustomerId—contains random values and has no effect on customer leaving the bank.
+3.Surname—the surname of a customer has no impact on their decision to leave the bank.
+4.CreditScore—can have an effect on customer churn, since a customer with a higher credit score is less likely to leave the bank.
 Credit score:
-Excellent: 800–850
-Very Good: 740–799
-Good: 670–739
-Fair: 580–669
-Poor: 300–579
+#### Excellent: 800–850
+#### Very Good: 740–799
+#### Good: 670–739
+#### Fair: 580–669
+#### Poor: 300–579
 
 Geography—a customer’s location can affect their decision to leave the bank.
 Gender—it’s interesting to explore whether gender plays a role in a customer leaving the bank.
