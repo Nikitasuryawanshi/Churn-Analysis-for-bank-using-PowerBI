@@ -7,12 +7,12 @@
 2.CustomerId—contains random values and has no effect on customer leaving the bank.
 3.Surname—the surname of a customer has no impact on their decision to leave the bank.
 4.CreditScore—can have an effect on customer churn, since a customer with a higher credit score is less likely to leave the bank.
-Credit score:
-#### Excellent: 800–850
-#### Very Good: 740–799
-#### Good: 670–739
-#### Fair: 580–669
-#### Poor: 300–579
+##### Credit score:
+##### Excellent: 800–850
+##### Very Good: 740–799
+##### Good: 670–739
+##### Fair: 580–669
+##### Poor: 300–579
 
 Geography—a customer’s location can affect their decision to leave the bank.
 Gender—it’s interesting to explore whether gender plays a role in a customer leaving the bank.
