@@ -49,3 +49,16 @@ Please use the following data assets to pull the data related to Bank customer a
 Analyse the data and bring out few insights on the customer Churn.
 It is advantageous for banks to know what leads a client towards the decision to leave the company.
 Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
+
+
+# Insights:
+## insights:
+
+##### 1.We have a total of 10,000 customers, with 5,151 active customers and 4,849 inactive customers,Out of the total customers, 7,055 are credit card holders, while 2,945 do not hold credit cards.There are 2,037 former customers, and 7,963 are returning customers.
+##### 2. Total Total Customer was higher for Active Member (5151) than Inactive Member (4849). 2019 in ActiveCategory  made up 17.22% of Total Customer.
+##### 3. Average Total Customer was higher for Active Member (1,287.75) than Inactive Member (1,212.25).Total Customer for Active Member and Inactive Member diverged the most when the year was 2019, when Active Member were 131 higher than Inactive Member.
+##### 4.The number of exit customers for credit card holders (1,424) was higher than for non-credit card holders (613).In Fair, there were 685 exit customers, the highest among all categories, and this number was 435.16% higher than in the Excellent category, which had the lowest exit customer count at 128.
+##### 5.Across all five credit types, the number of exit customers ranged from 128 to 685.Exit customers are divided by gender with 44.08% being female and 55.92% being male.
+
+![Bank Analysis](https://github.com/Nikitasuryawanshi/Churn-Analysis-for-bank-using-PowerBI/assets/105000370/20f80494-764a-4300-af2c-947ed682fb83)
+
