@@ -3,7 +3,7 @@
 ![png-transparent-south-indian-bank-bse-finance-bank-logo-india-bank-thumbnail](https://github.com/Nikitasuryawanshi/Churn-Analysis-for-bank-using-PowerBI/assets/105000370/76ec82c0-8d82-449b-89a9-cdc337e46a0e)
 
 
-Data Dictionary
+## Data Dictionary
 RowNumber—corresponds to the record (row) number and has no effect on the output.
 CustomerId—contains random values and has no effect on customer leaving the bank.
 Surname—the surname of a customer has no impact on their decision to leave the bank.
@@ -35,7 +35,7 @@ o Bank DOJ — date when the Customer associated/joined  with the bank.
 
 
 
-Data Gathering:
+## Data Gathering:
 
 Please use the following data assets to pull the data related to Bank customer and associated details.
 o ActiveCustomer 
@@ -46,7 +46,7 @@ o ExitCustomer
 o Gender
 o Geography
 
-Churn Analysis:
+## Churn Analysis:
 Analyse the data and bring out few insights on the customer Churn.
 It is advantageous for banks to know what leads a client towards the decision to leave the company.
 Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
